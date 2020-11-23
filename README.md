@@ -1,0 +1,2 @@
+# Retrofit Demo
+用Bilibili的获取用户信息API作为例子，参数可从已登录的b站网页cookie中获得。
